@@ -1,0 +1,10 @@
+{
+  "students": [
+    {
+      "name": "Samuel Ajanyi",
+      "department": "Computer Science",
+      "meal_type": "LS",
+      "id": 1
+    }
+  ]
+}
